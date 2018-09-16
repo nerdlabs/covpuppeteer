@@ -1,0 +1,14 @@
+{
+  "name": "covpuppeteer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": "index.js",
+  "author": "ZauberNerd <zaubernerd@zaubernerd.de>",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.2.0",
+    "pretty-bytes": "^5.1.0",
+    "puppeteer": "^1.8.0",
+    "source-map": "^0.7.3"
+  }
+}
